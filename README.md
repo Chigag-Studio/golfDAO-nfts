@@ -14,11 +14,11 @@
 
 
 ### <H2> Mainnet </H2>
-  SimpleDAPP on Mainet: https://oneclickdapp.com/papa-solar
+  SimpleDAPP on Mainet: https://oneclickdapp.com/jason-james
 
-  Polygon Mainet Proxy Deployment: https://polygonscan.com/address/0xe1192cd62897e92c6ad9d50bfa2d6934c99af04c#code
+  Polygon Mainet Proxy Deployment: https://polygonscan.com/address/0x8F9643AC01BAC2fC9415659f04DcEe000438a803
 
-  Polygon Mainet Implementation Deployment: https://polygonscan.com/address/0xd56abb64fde199d2d04237984449da3c80c91437
+  Polygon Mainet Implementation Deployment: https://polygonscan.com/address/0xDfA6264dabe765DA0F251eb7A6E97a866E5c10f8
 
 &nbsp;
 
